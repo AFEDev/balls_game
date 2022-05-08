@@ -1,0 +1,31 @@
+{
+  "name": "balls_game",
+  "version": "1.0.0",
+  "description": "Ball game",
+  "main": "app.js",
+  "devDependencies": {
+    "dead-server": "^1.0.6",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "dead-server --port=3000 --host=localhost"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFEDev/Games.git"
+  },
+  "keywords": [
+    "game",
+    "balls",
+    "first_game",
+    "js",
+    "DOM"
+  ],
+  "author": "Algirdas <algirduj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AFEDev/Games/issues"
+  },
+  "homepage": "https://github.com/AFEDev/Games#readme"
+}
